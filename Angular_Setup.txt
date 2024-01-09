@@ -24,4 +24,18 @@ Step 4: Setup Github repository for better branching strategy
         3: git branch -M main
         4: git remote add origin https://github.com/vatsdebugzone/Angular_16_Todos.git
 
+Step 5:  You can use the Angular CLI to create projects, generate application and library code, 
+         and perform a variety of ongoing development tasks such as testing, bundling, and deployment.
+        
+         npm install -g @angular/cli 
+
+Step 6:   Create new angular app using angular cli command
+          ng new app_name (e-todos)
+           --> ASK for styling (select according to your comfortability)
+                     -->CSS
+                     -->SCSS Sassy Cascading Style Sheets : Super set fo CSS
+                     -->SASS Special type of file for SCSS
+
+           ---> ASK for SSG (Server side generation ) & SSR (Server side rendering)     
+                  SSR : In SSR server sends fully rendered HTML to the client in case of each request      
       
