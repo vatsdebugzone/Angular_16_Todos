@@ -1,0 +1,27 @@
+
+Note :
+Step : 1  Require VSC (Visual Studio Code) open source IDE for Project Development provided by Microsoft.
+        https://code.visualstudio.com/download
+
+Step 2:  Install Latest Node Version from  https://nodejs.org/en/download
+
+          1:Asynchronous and Event-Driven : Event-driven architecture, allowing developers to respond to events and execute callbacks when operations complete.
+          2:Single-threaded, Non-blocking I/O : Node.js uses a single-threaded event loop to handle multiple concurrent connections without the need for threads. 
+                                                Well suited for build scalable & Application with high performance that uses concurrent connections.                
+          3:NPM : Node js comes with NPM (It allows developer to easily manage & share third party library & tool),NPM is one of the largest ecosystem of open source libraries 
+          3:Extensive Module System : Modular Architecture(Use of small reusable modules),Organizing & Structuring Code allow developer to add externa libraries
+          4:Cross-Platform : Designed to run on various operating systems, including Windows, macOS, and Linux
+          5 Used for Building Server-Side Applications : Web API, Web Server , Real Time Application
+          Node.js comes with npm, a package manager that allows developers to easily manage and share third-party 
+          libraries and tools. npm is one of the largest ecosystems of open-source libraries, making it easy to find and use 
+         
+
+
+Step 3: Note : Setup the Node_Module path in environment variable (To run js dependencies)
+Step 4: Setup Github repository for better branching strategy
+        1: git init
+        2: git add README.md (git add .)//for multiple files
+        3: git branch -M main
+        4: git remote add origin https://github.com/vatsdebugzone/Angular_16_Todos.git
+
+      
